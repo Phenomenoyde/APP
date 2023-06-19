@@ -13,6 +13,6 @@ class Migration(migrations.Migration):
         migrations.RenameField(
             model_name='choice',
             old_name='texcontent',
-            new_name='contenido',
+            new_name='content',
         ),
     ]
